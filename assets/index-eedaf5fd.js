@@ -1,0 +1,1 @@
+import{_ as t,a as _,o as s,e as c,f as o,g as n}from"./index-77a23f1d.js";const a={},d={class:"flex"};function r(l,i){const e=_("m-trend");return s(),c("div",d,[o("div",null,[n(e,{text:"营业额"})]),o("div",null,[n(e,{text:"销售额",type:"down",downIcon:"ArrowDownBold"})])])}const x=t(a,[["render",r],["__scopeId","data-v-ae0289e8"]]);export{x as default};
